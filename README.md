@@ -7,4 +7,4 @@ Designed a 3D stall model. The real model was based on this design.
 ### Logo Branding 
 Designed logo and its branding
 
-![c braand](https://user-images.githubusercontent.com/121748146/210348990-cdc97d16-11aa-4ed6-926b-1847fa4ae6fa.jpg)
+![c braand](https://user-images.githubusercontent.com/121748146/210365210-858341d3-32a1-43f7-9cea-74819d207fc3.jpg)
